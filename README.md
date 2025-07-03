@@ -1,6 +1,7 @@
 # Qt City Route App
 
 A small academic project developed at Warsaw University of Technology. This desktop Qt application visualizes Polish cities and computes the shortest route between them using Dijkstra’s algorithm.
+
 ---
 
 ## Features
