@@ -1,0 +1,17 @@
+Warszawa Krakow 300
+Warszawa Lodz 120
+Warszawa Gdansk 400
+Warszawa Wroclaw 340
+Lodz Krakow 200
+Lodz Poznan 190
+Lodz Wroclaw 220
+Poznan Gdansk 280
+Poznan Szczecin 250
+Wroclaw Poznan 180
+Krakow Gdansk 400
+Krakow Rzeszow 160
+Rzeszow Lublin 150
+Lublin Warszawa 170
+Szczecin Gdansk 350
+Gdansk Bialystok 300
+Bialystok Lublin 240
