@@ -21,6 +21,7 @@ A small academic project developed at Warsaw University of Technology. This desk
 - The app reads connections between cities from a text file (`miasta.txt`) in this format:
 
 CityA CityB Distance
+
 CityB CityC Distance
 
 - It builds an undirected weighted graph.
